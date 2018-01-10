@@ -1,3 +1,3 @@
 # necklace
 
-Live: https://phoenix-burn.github.io/necklace/
+Live: https://jill-lee.github.io/necklace/
